@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+psycopg2
+asyncpg
+sqlalchemy
+alembic
+pydantic
+python-decouple
+xendit-python
+python-dotenv
